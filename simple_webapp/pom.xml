@@ -11,11 +11,11 @@
   <distributionManagement>
     <repository>
     <id>releases</id>
-    <url>http://204.236.208.209:8070/nexus/content/repositories/releases</url>
+    <url>http://34.233.125.164:8070/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
     <id>snapshots</id>
-    <url>http://204.236.208.209:8070/nexus/content/repositories/snapshots</url>
+    <url>http://34.233.125.164:8070/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 
